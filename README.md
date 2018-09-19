@@ -2,6 +2,6 @@
 
 experimental projects in the form of 
 
-<username>/<project>
+/username/project/files
 
 
